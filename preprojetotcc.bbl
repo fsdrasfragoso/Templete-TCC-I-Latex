@@ -1,0 +1,15 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Talbot 2012]{talbot2012}
+\abntrefinfo{Talbot}{TALBOT}{2012}
+{TALBOT, N.~L. \emph{User Manual for glossaries.sty}.
+[S.l.], 2012. Dispon{\'\i}vel em:
+  \url{http://mirrors.ctan.org/macros/latex/contrib/glossaries/glossaries-user.pdf}.
+  Acesso em: 11 mar. 2013.}
+
+\end{thebibliography}
